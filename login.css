@@ -1,0 +1,69 @@
+
+.login{
+	background:  #5F9EA0 no-repeat;
+	width: 100%;
+	height: 100vh;
+	
+}
+.shadow-box{
+	-webkit-box-shadow: 1px 5px 50px -4px rgba(0,0,0,0.76);
+	-moz-box-shadow: 1px 5px 50px -4px rgba(0,0,0,0.76);
+	box-shadow: 1px 5px 50px -4px rgba(0,0,0,0.76);
+	padding : 20px 30px;
+	background : white;
+	margin-top : 30vh;
+}
+#button{
+	margin-top : 20px;
+}
+
+#login{
+	margin-bottom : 20px;
+	text-align : center;
+}
+.form-group{
+	font-size : 30px;
+}
+
+[class*="col-"]{
+	float:left;
+}
+
+#fotodiri{
+	margin-left: 25%;
+	margin-top: 30px;
+	width : 50%;
+	heigh :	auto;
+}
+
+#poster{
+	float:left;
+	margin-right: 20px;
+}
+
+.moviedetail{
+	padding-top : 75px;
+	font-size : 15px;
+	float:left;
+}
+
+#judul , #releasedate , #overview , #budget , #poster,#budget{
+	margin-left : 15px;
+	margin-top : 15px;
+}
+
+.navbarsaya{
+	font-size : 15px;
+}
+
+.hideextra { 
+	white-space: nowrap; 
+	overflow: hidden; 
+	text-overflow:ellipsis;
+}
+.brandmovie {
+	margin-right: 30px;
+}
+#movieslist {
+	margin-top : 75px;
+}
